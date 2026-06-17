@@ -71,6 +71,6 @@ qdBox is actively developed, but the application source code is private.
 - [PostFox](https://github.com/roqd-one/postfox)
 - [AlcoList](https://github.com/roqd-one/alcolist)
 - [NowAgo](https://github.com/roqd-one/nowago)
-- [StoreProof](https://github.com/roqd-one/storeproof)
+- [StoreProof](https://github.com/roqd-one/storeproof-app)
 - [LumiGap](https://github.com/roqd-one/lumigap-poker-ai)
 
