@@ -37,8 +37,11 @@ qdBox is a finance and operations dashboard built for indie developers, solo fou
 
 ## Links
 
-- Website: https://qdbox.one/
+- Website: https://qdbox.one/igp
 - App Store: https://apps.apple.com/es/app/qdbox-projects-revenue/id6758437065
+- Facebook: https://www.facebook.com/qdboxprojectstasksrevenuedashboard/
+- LinkedIn: https://www.linkedin.com/company/qdbox/?viewAsMember=true
+- X: https://x.com/stargap_one
 - Portfolio page: https://stargap.one/products/qdbox
 - GitHub repo: https://github.com/roqd-one/qdbox-app
 - GitHub profile: https://github.com/roqd-one
@@ -73,4 +76,3 @@ qdBox is actively developed, but the application source code is private.
 - [NowAgo](https://github.com/roqd-one/nowago)
 - [StoreProof](https://github.com/roqd-one/storeproof-app)
 - [LumiGap](https://github.com/roqd-one/lumigap-poker-ai)
-
